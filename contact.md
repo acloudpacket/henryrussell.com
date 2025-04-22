@@ -7,8 +7,8 @@ permalink: /contact/
 
 For recruitment inquiries, please reach out via the following:
 
-- **Email:** henryrussel.1@outlook.com
-- **Phone:** (484) 456-5986
+- **Email:** recruiting@henryrussell.com
+- **Cell:** (484) 456-5986
 - **Coach Contact:** Coach Joe Bernard, jbernard@becahi.org
 - **X:** @HenryRussell_71
 

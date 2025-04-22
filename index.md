@@ -12,7 +12,7 @@ permalink: /
 
 Welcome to the official website of Henry Russell, a dedicated high school football player with a passion for the game. Explore my stats, background, and contact information to learn more about my journey and potential as a college football recruit.
 
-[View My Stats](/stats/) | [About Me](/about/) | [Contact Me](/contact/) | [Upcoming Camps](/schedule/)
+[View My Highlights](/highlights/) | [About Me](/about/) | [Contact Me](/contact/) | [Upcoming Camps](/schedule/)
 
 ![Henry Russell](/assets/images/henry_russell.jpg)
 

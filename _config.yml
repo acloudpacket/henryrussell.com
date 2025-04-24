@@ -34,6 +34,8 @@ plugins:
   - jekyll-seo-tag
 
 google_analytics: G-13RGJCBS72 # Replace with your GA tracking ID
+google_tag_manager: GTM-59NKXQF9 #Google Tag Manager acp/hr.com
+
 author:
   name: Henry Russell
   email: henry.russell@example.com

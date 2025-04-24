@@ -5,15 +5,13 @@ permalink: /about/
 ---
 # About Henry Russell
 
-**Position:** Wide Receiver  
-**Height:** 6'2"  
-**Weight:** 185 lbs  
-**School:** Lincoln High School, Anytown, USA  
+**Position:** Offensive Tackle (OT), Defensive Tackle (DT), Nose Guard (NG), Offensive Line (OL)  
+**Height:** 6'5"  
+**Weight:** 310 lbs  
+**School:** Bethlehem Catholic High School (BECA), Bethlehem, Pa  
 **Graduation Year:** 2026
 
-Henry Russell is a versatile and hardworking wide receiver known for his speed, route-running, and reliable hands. A team leader both on and off the field, Henry is committed to academic excellence and community involvement. His goal is to compete at the collegiate level while pursuing a degree in Sports Management.
+Henry Russell dominates as an offensive lineman, using his massive frame and quick feet to create wide-open running lanes and protect the quarterback with unrelenting power. On the defensive line, his explosive first step and raw strength allow him to collapse pockets and disrupt plays before they develop. His versatility and physicality make him a standout big man, excelling in both trenches with technical precision and brute force.
 
-**Achievements:**
-- All-Conference First Team (2024)
-- Team Captain (2024-2025)
-- 3.8 GPA, Honor Roll
+![Henry Russell](/assets/images/aihenry.jpeg)
+

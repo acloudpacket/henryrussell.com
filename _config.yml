@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Henry Russell - Football Recruit
+title: Henry Russell | Football Recruit
 email: recruiting@henryrussell.com
-description: >- # this means to ignore newlines until "baseurl:"
- Official website of Henry Russell, high school football player seeking college recruitment opportunities.
+description: Henry Russell, top high school offensive & defensive line recruit for college football. Watch highlights, view stats, and contact for recruiting.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://henryrussell.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://henryrussell.com # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -32,7 +32,22 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
+google_analytics: G-13RGJCBS72 # Replace with your GA tracking ID
+author:
+  name: Henry Russell
+  email: henry.russell@example.com
+  twitter: HenryRussellFB
+twitter:
+  username: HenryRussellFB
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/images/henry-russell-football.jpg
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

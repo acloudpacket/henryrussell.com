@@ -52,7 +52,7 @@ main {
 }
 
 main img {
-  max-width: 25%;
+  max-width: 75%;
   height: auto;
 }
 
@@ -61,7 +61,7 @@ main.home {
 }
 
 main.home img {
-  max-width: 25%;
+  max-width: 75%;
   height: auto;
   margin: 1rem 0;
 }

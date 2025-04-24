@@ -14,7 +14,7 @@ Welcome to the official website of **Henry Russell**, a dedicated high school fo
 
 [View My Highlights](/highlights/) | [About Me](/about/) | [Contact Me](/contact/) | [Upcoming Camps](/schedule/)
 
-![Henry Russell](/assets/images/henry_russell.jpg){:height="700px" width="400px"}
+![Henry Russell](/assets/images/henry_russell.jpg)
 
 
 

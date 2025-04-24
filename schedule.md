@@ -7,6 +7,8 @@ permalink: /schedule/
 
 Below is my planned schedule for upcoming football camps in 2025, where I’ll be showcasing my skills as a nose guard & defensive tackle to college recruiters. Check back for updates, as camp details may change.
 
+![Henry Russell](/assets/images/henry-schedule.jpg)
+
 | Date                  | Camp Name                                | Location       | Details                                                                                     |
 |-----------------------|------------------------------------------|----------------|---------------------------------------------------------------------------------------------|
 | June 6, 2025  | Elite 1-Day Camp                         | Morgantown, WV | Registration at 1 p.m., camp starts at 2 p.m |
@@ -19,4 +21,3 @@ Below is my planned schedule for upcoming football camps in 2025, where I’ll b
 
 Interested in seeing me at one of these camps? Reach out via the [Contact](/contact/) page to coordinate with me or my coaching staff.
 
-![Henry Russell](/assets/images/henry-schedule.jpg)

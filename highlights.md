@@ -13,4 +13,6 @@ Watch my latest highlights below:
 
 {% include hudl-video.html url="https://www.hudl.com/embed/video/3/19470506/674118702b1d32398302e0b7" %}
 
-<div class="spacing"></div>
+Check out my **Hudl Page -->** [CLICK HERE]
+
+[CLICK HERE]: https://www.hudl.com/profile/19470506/Henry-Russell

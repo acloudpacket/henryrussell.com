@@ -94,6 +94,7 @@ footer {
   max-width: 800px;
   margin: 1rem auto;
   box-sizing: border-box;
+  margin-bottom: 2rem; /* Added spacing at the bottom */
 }
 .video-container iframe {
   position: absolute;
@@ -108,6 +109,7 @@ footer {
     width: 100vw;
     max-width: none;
     margin: 1rem 0;
+    margin-bottom: 2rem; /* Added spacing at the bottom for mobile */
   }
 }
 /* Mobile navigation with hamburger menu */
@@ -136,6 +138,7 @@ footer {
   list-style: none;
   margin: 0;
   padding: 0;
+  font-weight: bold; /* Make menu words bold */
 }
 
 .site-header .menu-items li {

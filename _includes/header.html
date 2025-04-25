@@ -1,23 +1,32 @@
-<header>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-13RGJCBS72"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <!-- Debug: header_pages = {{ site.header_pages | join: ", " }} -->
+    {%- if site.header_pages -%}
+      <nav class="site-nav">
+        <button class="menu-toggle" aria-label="Toggle navigation">
+          <span class="hamburger"></span>
+        </button>
+        <ul class="menu-items">
+          {%- for path in site.header_pages -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-13RGJCBS72"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-  gtag('config', 'G-13RGJCBS72');
-</script>  
-  <nav>
-      <div class="logo">
-        <a href="/">Henry Russell</a>
-      </div>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/highlights/">Highlights</a></li>
-        <li><a href="/schedule/">Schedule</a></li>
-        <li><a href="/contact/">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+          gtag('config', 'G-13RGJCBS72');
+        </script>  
+</header> 
+
+  

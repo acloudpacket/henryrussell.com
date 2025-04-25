@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Camp Schedule
+title: Schedule
 permalink: /schedule/
 ---
 # 2025 Football Camp Schedule

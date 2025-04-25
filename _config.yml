@@ -49,6 +49,16 @@ defaults:
     values:
       layout: default
       image: /assets/images/henry-russell-football.jpg
+
+# Defines the pages to be included in the site's header navigation.
+header_pages:
+  - index.md
+  - about.md
+  - schedule.md
+  - highlights.md
+  - contact.md
+  # Add other pages in desired order, e.g.:
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -13,6 +13,10 @@ Watch my latest highlights below:
 
 {% include hudl-video.html url="https://www.hudl.com/embed/video/3/19470506/674118702b1d32398302e0b7" %}
 
-Check out my **Hudl Page -->** [CLICK HERE]
+### External Sites
+ 
+Check out my [**Hudl Page**](https://www.hudl.com/profile/19470506/Henry-Russell)
+![Hudl logo](https://static.hudl.com/craft/toolkit/logos/Hudl-Logo-Inverted.png)
 
-[CLICK HERE]: https://www.hudl.com/profile/19470506/Henry-Russell
+Check out my [**MaxPreps Profile**](https://www.maxpreps.com/pa/bethlehem/bethlehem-catholic-hawks/athletes/henry-russell/?careerid=6akpsa601hjh1)
+![Henry Russell in Action](https://asset.maxpreps.io/includes/images/apps/maxapp_icon_v2.png)

@@ -1,6 +1,9 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      <img src="https://static.hudl.com/users/prod/19080010_eb513877dae34bd199ae8cbd182ade7b.jpg" alt="Logo" style="height: 75px; vertical-align: middle; margin-right: 20px;">
+      {{ site.title | escape }}
+    </a>
     <!-- Debug: header_pages = {{ site.header_pages | join: ", " }} -->
     {%- if site.header_pages -%}
       <nav class="site-nav">

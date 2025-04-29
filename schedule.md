@@ -7,7 +7,9 @@ permalink: /schedule/
 
 Below is my planned schedule for upcoming football camps in 2025, where I’ll be showcasing my skills as a nose guard & defensive tackle to college recruiters. Check back for updates, as camp details may change.
 
-![Henry Russell](/assets/images/henry-schedule.jpg)
+![Henry Russell](/assets/images/henry-schedule.jpg)  
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/PRZPAvic?ref_src=twsrc%5Etfw">@PRZPAvic</a> for the camp invite! Can’t wait to showcase my talent! <a href="https://twitter.com/PrepRedzonePA?ref_src=twsrc%5Etfw">@PrepRedzonePA</a> <a href="https://t.co/bk61JCc1s0">pic.twitter.com/bk61JCc1s0</a></p>&mdash; Henry (@HenryRussell_73) <a href="https://twitter.com/HenryRussell_73/status/1911910724118470696?ref_src=twsrc%5Etfw">April 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 | Date                  | Camp Name                                | Location       | Details                                                                                     |
 |-----------------------|------------------------------------------|----------------|---------------------------------------------------------------------------------------------|

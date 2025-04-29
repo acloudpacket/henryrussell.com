@@ -14,7 +14,5 @@ Welcome to the official website of **Henry Russell**, a dedicated high school fo
 
 [View My Highlights](/highlights/) | [About Me](/about/) | [Contact Me](/contact/) | [Upcoming Camps](/schedule/)
 
-![Henry Russell](/assets/images/henry_russell.jpg)
-
-<a class="twitter-timeline" data-height="800" data-theme="light" data-width="500" href="https://twitter.com/HenryRussell_73?ref_src=twsrc%5Etfw">Tweets by HenryRussell_73</a>
+![Henry Russell](/assets/images/henry_russell.jpg) 
 

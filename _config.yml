@@ -24,7 +24,7 @@ description: Henry Russell, top high school offensive & defensive line recruit f
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://henryrussell.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
-#twitter_username: jekyllrb
+twitter_username: henryrussell_73
 #github_username:  jekyll
 
 # Build settings
@@ -32,16 +32,17 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 google_analytics: G-13RGJCBS72 # Replace with your GA tracking ID
 google_tag_manager: GTM-59NKXQF9 #Google Tag Manager acp/hr.com
 
 author:
   name: Henry Russell
-  email: henry.russell@example.com
-  twitter: HenryRussellFB
+  email: admin@henryrussell.com
+  twitter: henryrussell_73
 twitter:
-  username: HenryRussellFB
+  username: henryrussell_73
   card: summary_large_image
 defaults:
   - scope:

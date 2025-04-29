@@ -16,5 +16,5 @@ Welcome to the official website of **Henry Russell**, a dedicated high school fo
 
 ![Henry Russell](/assets/images/henry_russell.jpg)
 
-
+<a class="twitter-timeline" data-height="800" data-theme="light" data-width="500" href="https://twitter.com/HenryRussell_73?ref_src=twsrc%5Etfw">Tweets by HenryRussell_73</a>
 

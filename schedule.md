@@ -13,6 +13,8 @@ Below is my planned schedule for upcoming football camps in 2025, where I’ll b
 
 | Date                  | Camp Name                                | Location       | Details                                                                                     |
 |-----------------------|------------------------------------------|----------------|---------------------------------------------------------------------------------------------|
+| May 10, 2025  | Prep RedZone
+| May 17, 2025 | EXACT MaxPreps 
 | June 6, 2025  | Elite 1-Day Camp                         | Morgantown, WV | Registration at 1 p.m., camp starts at 2 p.m |
 | June 9, 2025          | Prospect Camp                            | Villanova, Pa | The Prospect Camps are highly intense and competitive camps that are designed for advanced athletes who are searching to enhance their skills to prepare to play football beyond the high school level. 
 | June 11, 2025 | Big Man Academy                       | New Brunswick, NJ     | Open to Any and All. For OL and DL. Check-In Begins: 1:30PM SHI Stadium  [Register](https://scarletknights.com/sports/2025/2/27/2025-rutgers-football-camps.aspx) |

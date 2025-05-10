@@ -9,6 +9,8 @@ Interested in additional game film or information? Please email or call to conne
 
 ## Game Film
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/PRZPAvic?ref_src=twsrc%5Etfw">@PRZPAvic</a> for the invite to the Prep Red Zone Combine. Had lots of fun and learn a few new tricks. Can’t wait for my next week’s camp. <a href="https://t.co/bGASLnqiRv">pic.twitter.com/bGASLnqiRv</a></p>&mdash; Henry (@HenryRussell_73) <a href="https://twitter.com/HenryRussell_73/status/1921342999931351226?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Watch my latest highlights below:
 
 {% include hudl-video.html url="https://www.hudl.com/embed/video/3/19470506/674118702b1d32398302e0b7" %}

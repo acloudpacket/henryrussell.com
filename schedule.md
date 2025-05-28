@@ -18,7 +18,7 @@ Below is my planned schedule for upcoming football camps in 2025, where I’ll b
 | June 6, 2025  | Elite 1-Day Camp                         | Morgantown, WV | Registration at 1 p.m., camp starts at 2 p.m |
 | June 9, 2025          | Prospect Camp                            | Villanova, Pa | The Prospect Camps are highly intense and competitive camps that are designed for advanced athletes who are searching to enhance their skills to prepare to play football beyond the high school level. 
 | June 11, 2025 | Big Man Academy                       | New Brunswick, NJ     | Open to Any and All. For OL and DL. Check-In Begins: 1:30PM SHI Stadium  [Register](https://scarletknights.com/sports/2025/2/27/2025-rutgers-football-camps.aspx) |
-| June 20, 2025 | UCONN              | Mansfield, CT  | 
+| June 20-21, 2025 | 2025 FRANchise Big Man Camp              | Syracuse, NY  | https://franchisecusecamps.totalcamps.com/shop/product/439095
 
 
 **Note**: Camp dates and locations are subject to change. Please visit the linked registration pages for the latest information or contact me for details on my participation.

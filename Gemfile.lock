@@ -27,19 +27,19 @@ GEM
     google-protobuf (4.31)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.2-aarch64-linux)
+    google-protobuf (4.31-aarch64-linux)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.2-arm64-darwin)
+    google-protobuf (4.31-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.2-x86-linux)
+    google-protobuf (4.31-x86-linux)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.2-x86_64-darwin)
+    google-protobuf (4.31-x86_64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.2-x86_64-linux)
+    google-protobuf (4.31-x86_64-linux)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)

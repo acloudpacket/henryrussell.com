@@ -6,6 +6,9 @@ layout: home
 title: Home
 permalink: /
 ---
+
+![Henry Russell](/assets/images/hr-ship.jpg) 
+
 # Henry Russell - Football Prospect
 ## HS:Bethlehem Catholic Class 2026 
 ## Height:6’5  Weight: 325 Position: OL, DL, NG, DT

@@ -322,6 +322,49 @@ main.home {
   font-weight: 700;
 }
 
+
+/* Lower homepage spotlight (suit / headshot) */
+.home-spotlight {
+  display: grid;
+  grid-template-columns: 0.75fr 1.25fr;
+  gap: 1.75rem;
+  align-items: center;
+  margin: 2.75rem 0 1rem;
+  padding: 1.5rem;
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.spotlight-image {
+  width: 100%;
+  max-width: 280px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 14px;
+  object-fit: cover;
+  max-height: 360px;
+}
+
+.photo-credit {
+  margin: 0.5rem 0 0;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--neutral-700);
+}
+
+.spotlight-copy h2 {
+  margin: 0 0 0.75rem;
+  color: var(--navy);
+  font-size: clamp(1.6rem, 3vw, 2rem);
+}
+
+.spotlight-copy p {
+  color: var(--neutral-700);
+  margin: 0 0 1.25rem;
+}
+
 /* Projects */
 .project-grid {
   display: grid;
@@ -462,6 +505,14 @@ footer {
 
   .hero-image {
     max-height: 220px;
+  }
+
+  .home-spotlight {
+    grid-template-columns: 1fr;
+  }
+
+  .spotlight-image {
+    max-height: 300px;
   }
 
   .home-cards,

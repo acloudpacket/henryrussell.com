@@ -11,7 +11,7 @@
 <body>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   {% include header.html %}
-  <main class="default">
+  <main class="default{% if page.title %} page-{{ page.title | slugify }}{% endif %}">
     {{ content }}
   </main>
    {% include footer.html %}

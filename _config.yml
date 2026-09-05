@@ -55,9 +55,10 @@ defaults:
 header_pages:
   - index.md
   - about.md
+  - resume.md
+  - projects.md
   - athletics.md
   - contact.md
-  # Add other pages in desired order, e.g.:
 
 # Exclude from processing.
 # The following items will not be processed, by default.

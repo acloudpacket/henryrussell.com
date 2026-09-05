@@ -340,11 +340,12 @@ main.home {
 .spotlight-image {
   width: 100%;
   max-width: 280px;
+  height: auto;
   display: block;
   margin: 0 auto;
   border-radius: 14px;
-  object-fit: cover;
-  max-height: 360px;
+  object-fit: contain;
+  object-position: center top;
 }
 
 .photo-credit {
@@ -512,7 +513,7 @@ footer {
   }
 
   .spotlight-image {
-    max-height: 300px;
+    max-width: 240px;
   }
 
   .home-cards,

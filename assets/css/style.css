@@ -216,15 +216,23 @@ main.home {
 
 .hero {
   display: grid;
-  grid-template-columns: 1.05fr 1fr;
-  gap: 2rem;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 1.75rem;
   align-items: center;
   background: var(--white);
   border: 1px solid var(--neutral-200);
   border-radius: 18px;
-  padding: 1.5rem;
+  padding: 1.75rem 1.5rem;
   box-shadow: var(--shadow);
   margin-bottom: 2.5rem;
+}
+
+.hero-copy {
+  order: 1;
+}
+
+.hero-media {
+  order: 2;
 }
 
 .hero-image {
@@ -232,7 +240,8 @@ main.home {
   display: block;
   border-radius: 14px;
   object-fit: cover;
-  max-height: 420px;
+  max-height: 280px;
+  margin: 0 auto;
 }
 
 .eyebrow {
@@ -441,6 +450,18 @@ footer {
 @media (max-width: 900px) {
   .hero {
     grid-template-columns: 1fr;
+  }
+
+  .hero-copy {
+    order: 1;
+  }
+
+  .hero-media {
+    order: 2;
+  }
+
+  .hero-image {
+    max-height: 220px;
   }
 
   .home-cards,

@@ -7,6 +7,10 @@ permalink: /athletics/
 
 Shippensburg student-athlete on the Raiders football roster. Schedule and roster details live on the official athletics site.
 
+![Henry Russell — Shippensburg Raiders](/assets/images/henry-russell-ship-roster.jpg)
+
+*Photo: Shippensburg Athletics*
+
 ## Schedule
 
 - [Shippensburg Football Schedule](https://shipraiders.com/sports/football/schedule)

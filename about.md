@@ -13,7 +13,9 @@ permalink: /about/
 
 Henry Russell is a Shippensburg student-athlete with an OL/DL background. As an offensive lineman, he uses his frame and quick feet to create running lanes and protect the quarterback. On the defensive line, his first step and strength help collapse pockets and disrupt plays. His versatility in both trenches comes from technical work and physicality developed at Bethlehem Catholic and carried into the Raiders program.
 
-![Henry Russell](/assets/images/aihenry.jpeg)
+![Henry Russell — Shippensburg Raiders](/assets/images/henry-russell-ship-headshot.jpg)
+
+*Photo: Shippensburg Athletics*
 
 ## Academics and Measurements
 

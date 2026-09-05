@@ -17,7 +17,7 @@ permalink: /
     </div>
   </div>
   <div class="hero-media">
-    <img src="/assets/images/hr-ship.jpg" alt="Henry Russell at Shippensburg" class="hero-image" width="720" height="720">
+    <img src="/assets/images/henry-russell-ship-roster.jpg" alt="Henry Russell — Shippensburg Raiders roster photo" class="hero-image" width="720" height="900">
   </div>
 </section>
 

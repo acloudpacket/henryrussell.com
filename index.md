@@ -7,15 +7,14 @@ title: Home
 permalink: /
 ---
 
-![Henry Russell](/assets/images/hr-ship.jpg) 
+![Henry Russell](/assets/images/hr-ship.jpg)
 
-# Henry Russell - Football Prospect
-## HS:Bethlehem Catholic Class 2026 
-## Height:6’5  Weight: 325 Position: OL, DL, NG, DT
+# Henry Russell
+## Shippensburg Student-Athlete | 2026 Raiders Roster
+## Height: 6’5"  Weight: 325  Position: OL, DL, NG, DT
 
-Welcome to the official website of **Henry Russell**, a dedicated high school football player with a passion for the game. Explore my highlights, background, and contact information to learn more about my journey and potential as a college football recruit.
+Welcome to the official website of **Henry Russell**, a Shippensburg University student-athlete on the 2026 Raiders football roster. Explore athletics background, highlights archive, and contact information.
 
-[View My Highlights](/highlights/) | [About Me](/about/) | [Contact Me](/contact/) | [Upcoming Camps](/schedule/)
+[About](/about/) | [Athletics](/athletics/) | [Contact](/contact/)
 
-![Henry Russell](/assets/images/henry_russell.jpg) 
-
+![Henry Russell](/assets/images/henry_russell.jpg)

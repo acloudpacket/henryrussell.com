@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Henry Russell | Football Recruit
-email: recruiting@henryrussell.com
-description: Henry Russell, top high school offensive & defensive line recruit for college football. Watch highlights, view stats, and contact for recruiting.
+title: Henry Russell | Shippensburg
+email: henryfootball73@outlook.com
+description: Henry Russell — Shippensburg student-athlete open to internships and class projects. View athletics background, highlights archive, and contact info.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://henryrussell.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
@@ -55,8 +55,7 @@ defaults:
 header_pages:
   - index.md
   - about.md
-  - schedule.md
-  - highlights.md
+  - athletics.md
   - contact.md
   # Add other pages in desired order, e.g.:
 

@@ -8,145 +8,64 @@
   --neutral-700: #3a4252;
   --neutral-900: #12161f;
   --white: #ffffff;
+  --content-width: 1080px;
+  --radius: 12px;
+  --shadow: 0 10px 30px rgba(0, 21, 65, 0.08);
 }
 
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(to bottom, var(--white), var(--neutral-100));
-  color: var(--neutral-900);
-  line-height: 1.6;
-}
-
-header {
-  background: var(--navy);
-  color: var(--white);
-  padding: 1rem;
-}
-
-main {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-}
-
-main img {
-  max-width: 75%;
-  height: auto;
-}
-
-main.home {
-  text-align: center;
-}
-
-main.home img {
-  max-width: 75%;
-  height: auto;
-  margin: 1rem 0;
-}
-
-main.home a {
-  display: inline-block;
-  margin: 1rem;
-  padding: 0.5rem 1rem;
-  background: var(--red);
-  color: var(--white);
-  text-decoration: none;
-  border-radius: 5px;
-}
-
-main.home a:hover {
-  background: var(--accent);
-  color: var(--navy);
-}
-
-footer {
-  background: var(--navy);
-  color: var(--white);
-  text-align: center;
-  padding: 1rem;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-}
-
-.social-links {
-  margin-top: 0.5rem;
-}
-
-.social-links a {
-  color: var(--white);
-  text-decoration: none;
-  margin: 0 0.5rem;
-  font-size: 1.5rem;
-}
-
-.social-links a:hover {
-  color: var(--accent);
-}
-
-@media (max-width: 600px) {
-  nav {
-      flex-direction: column;
-      gap: 1rem;
-  }
-
-  nav ul {
-      flex-direction: column;
-      text-align: center;
-  }
-
-  .social-links a {
-      margin: 0 0.3rem;
-      font-size: 1.3rem;
-  }
-}
-
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* Standard 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  width: 90vw;
-  max-width: 800px;
-  margin: 1rem auto 3rem; /* Increased bottom margin */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: var(--neutral-50);
+  color: var(--neutral-900);
+  line-height: 1.65;
 }
 
-@media (max-width: 768px) {
-  .video-container {
-    width: 100%; /* Respect parent container */
-    max-width: none;
-    margin: 1rem 0 4rem; /* Extra bottom margin for mobile browser chrome */
-    padding-bottom: calc(56.25% + env(safe-area-inset-bottom)); /* Account for safe area */
-  }
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-/* Mobile navigation with hamburger menu */
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--navy);
+}
+
+/* Header */
+.site-header {
+  background: var(--navy);
+  color: var(--white);
+  position: relative;
+  border-bottom: 4px solid var(--red);
+}
+
 .site-header .wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
+  gap: 1.5rem;
+  max-width: var(--content-width);
   margin: 0 auto;
-  padding: 1rem;
+  padding: 0.9rem 1.25rem;
 }
 
 .site-header .site-title {
   color: var(--white);
   text-decoration: none;
-  font-size: 1.5rem;
-  font-weight: bold; /* Make site title bolder */
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .site-header .site-nav {
@@ -158,21 +77,28 @@ footer {
   list-style: none;
   margin: 0;
   padding: 0;
-  font-weight: bold; /* Make menu words bold */
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25rem 0.35rem;
+  font-weight: 600;
 }
 
 .site-header .menu-items li {
-  margin-left: 1.5rem;
+  margin: 0;
 }
 
 .site-header .menu-items .page-link {
   color: var(--white);
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 0.95rem;
+  padding: 0.45rem 0.7rem;
+  border-radius: 999px;
+  display: inline-block;
 }
 
 .site-header .menu-items .page-link:hover {
-  color: var(--accent);
+  color: var(--navy);
+  background: var(--accent);
 }
 
 .site-header .menu-toggle {
@@ -214,7 +140,315 @@ footer {
   transform: translateY(-3px) rotate(-45deg);
 }
 
-/* Mobile styles */
+/* Main content */
+main {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+}
+
+main.default {
+  background: transparent;
+}
+
+main.default > *:first-child {
+  margin-top: 0;
+}
+
+main h1 {
+  color: var(--navy);
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
+
+main h2 {
+  color: var(--navy);
+  margin-top: 2rem;
+}
+
+main img {
+  max-width: 100%;
+  border-radius: var(--radius);
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  margin: 0.25rem 0.35rem 0.25rem 0;
+  padding: 0.7rem 1.15rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  border: 2px solid transparent;
+  cursor: pointer;
+  font: inherit;
+}
+
+.btn-primary {
+  background: var(--red);
+  color: var(--white);
+  border-color: var(--red);
+}
+
+.btn-primary:hover {
+  background: #d02d33;
+  border-color: #d02d33;
+  color: var(--white);
+}
+
+.btn-secondary {
+  background: var(--white);
+  color: var(--navy);
+  border-color: var(--navy);
+}
+
+.btn-secondary:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--navy);
+}
+
+/* Home hero + cards */
+main.home {
+  text-align: left;
+  padding-top: 2rem;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.05fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  margin-bottom: 2.5rem;
+}
+
+.hero-image {
+  width: 100%;
+  display: block;
+  border-radius: 14px;
+  object-fit: cover;
+  max-height: 420px;
+}
+
+.eyebrow {
+  display: inline-block;
+  margin: 0 0 0.75rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: var(--neutral-100);
+  color: var(--navy);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 0 0 0.5rem;
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  color: var(--navy);
+}
+
+.subhead {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--red);
+}
+
+.hero-body {
+  margin: 0 0 1.5rem;
+  color: var(--neutral-700);
+  font-size: 1.05rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  display: block;
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.35rem 1.25rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+  color: inherit;
+}
+
+.card h2 {
+  margin: 0 0 0.55rem;
+  color: var(--navy);
+  font-size: 1.35rem;
+}
+
+.card p {
+  margin: 0 0 1rem;
+  color: var(--neutral-700);
+}
+
+.card-link {
+  color: var(--red);
+  font-weight: 700;
+}
+
+/* Projects */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: var(--radius);
+  padding: 1.35rem;
+  box-shadow: var(--shadow);
+}
+
+.project-card h2 {
+  margin-top: 0;
+}
+
+.project-meta {
+  color: var(--neutral-700);
+  margin-bottom: 0.75rem;
+}
+
+/* Resume */
+.resume-page {
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: 18px;
+  padding: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.resume-intro {
+  color: var(--neutral-700);
+  max-width: 42rem;
+}
+
+.resume-actions {
+  margin: 1.25rem 0 2rem;
+}
+
+.resume-section {
+  padding-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-top: 1px solid var(--neutral-200);
+}
+
+.resume-section:first-of-type {
+  border-top: none;
+}
+
+.resume-section h2 {
+  margin-top: 1.25rem;
+}
+
+/* Tables on about etc. */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--neutral-200);
+  text-align: left;
+}
+
+th {
+  background: var(--neutral-100);
+  color: var(--navy);
+}
+
+/* Footer */
+footer {
+  background: var(--navy);
+  color: var(--white);
+  text-align: center;
+  padding: 1.5rem 1rem;
+  width: 100%;
+}
+
+.social-links {
+  margin-top: 0.5rem;
+}
+
+.social-links a {
+  color: var(--white);
+  text-decoration: none;
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+.social-links a:hover {
+  color: var(--accent);
+}
+
+/* Video embeds */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  width: 100%;
+  max-width: 800px;
+  margin: 1rem auto 3rem;
+  box-sizing: border-box;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+
+  .home-cards,
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 768px) {
   .site-header .menu-toggle {
     display: block;
@@ -224,12 +458,13 @@ footer {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 60px;
+    top: 100%;
     left: 0;
     right: 0;
     background-color: var(--navy);
     padding: 1rem;
     z-index: 1000;
+    gap: 0;
   }
 
   .site-header .menu-items.active {
@@ -237,16 +472,80 @@ footer {
   }
 
   .site-header .menu-items li {
-    margin: 0.5rem 0;
+    margin: 0.35rem 0;
   }
-}
 
-/* Override potential .nav conflicts */
-@media (max-width: 768px) {
   .site-header .site-nav,
   .site-header .nav {
     display: block;
     position: static;
     float: none;
+  }
+
+  .video-container {
+    max-width: none;
+    margin: 1rem 0 4rem;
+    padding-bottom: calc(56.25% + env(safe-area-inset-bottom));
+  }
+
+  .social-links a {
+    margin: 0 0.3rem;
+    font-size: 1.3rem;
+  }
+
+  .resume-page {
+    padding: 1.25rem;
+  }
+}
+
+/* Print-friendly resume */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+  .site-header,
+  footer,
+  .no-print,
+  .menu-toggle {
+    display: none !important;
+  }
+
+  main {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .resume-page {
+    border: none;
+    box-shadow: none;
+    padding: 0;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+
+/* Resume page shell */
+main.page-resume {
+  background: var(--white);
+  border: 1px solid var(--neutral-200);
+  border-radius: 18px;
+  margin-top: 2.5rem;
+  margin-bottom: 3rem;
+  padding: 2rem 1.5rem 2.5rem;
+  box-shadow: var(--shadow);
+}
+
+@media print {
+  main.page-resume {
+    border: none;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
   }
 }

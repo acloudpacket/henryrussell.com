@@ -6,10 +6,10 @@ permalink: /
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Shippensburg University · Student-athlete</p>
+    <p class="eyebrow">Shippensburg · Raiders football</p>
     <h1>Henry Russell</h1>
-    <p class="subhead">Student · Potential intern · Class portfolio</p>
-    <p class="hero-body">Shippensburg student-athlete building a simple site for class projects, internship outreach, and athletics background — not a recruiting brochure.</p>
+    <p class="subhead">Student. Intern-ready. Class projects.</p>
+    <p class="hero-body">Ship freshman on the Raiders. Built this for class, internships, and football. Recruit brochure? Nah.</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="/resume/">View Resume</a>
       <a class="btn btn-secondary" href="/projects/">See Projects</a>
@@ -17,14 +17,14 @@ permalink: /
     </div>
   </div>
   <div class="hero-media">
-    <img src="/assets/images/henry-russell-ship-roster.jpg" alt="Henry Russell — Shippensburg Raiders roster photo" class="hero-image" width="720" height="900">
+    <img src="/assets/images/henry-russell-ship-roster.jpg" alt="Henry Russell, Shippensburg Raiders roster photo" class="hero-image" width="720" height="900">
   </div>
 </section>
 
 <section class="home-cards" aria-label="Site sections">
   <a class="card" href="/resume/">
     <h2>Resume</h2>
-    <p>Education, experience placeholders, athletics facts, skills, and coursework — ready for Henry to edit.</p>
+    <p>Education, experience placeholders, athletics facts, skills, coursework. Henry can edit it.</p>
     <span class="card-link">Open resume</span>
   </a>
   <a class="card" href="/projects/">
@@ -46,13 +46,13 @@ permalink: /
 
 <section class="home-spotlight" aria-label="About Henry">
   <div class="spotlight-media">
-    <img src="/assets/images/henry-russell-ship-headshot.jpg" alt="Henry Russell in suit — Shippensburg Raiders roster photo" class="spotlight-image" width="600" height="900">
+    <img src="/assets/images/henry-russell-ship-headshot.jpg" alt="Henry Russell in a suit, Shippensburg Raiders roster photo" class="spotlight-image" width="600" height="900">
     <p class="photo-credit">Photo: Shippensburg Athletics</p>
   </div>
   <div class="spotlight-copy">
     <p class="eyebrow">Beyond the field</p>
     <h2>Student first</h2>
-    <p>Henry is a Shippensburg student-athlete building toward class projects and internship opportunities. See a fuller bio and a resume scaffold he can keep updating.</p>
+    <p>Ship student-athlete. Class projects and internships on the radar. Bio and resume are here if you want the details.</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="/about/">About</a>
       <a class="btn btn-secondary" href="/resume/">Resume</a>

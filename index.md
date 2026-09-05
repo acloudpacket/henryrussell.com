@@ -43,3 +43,19 @@ permalink: /
     <span class="card-link">Athletics hub</span>
   </a>
 </section>
+
+<section class="home-spotlight" aria-label="About Henry">
+  <div class="spotlight-media">
+    <img src="/assets/images/henry-russell-ship-headshot.jpg" alt="Henry Russell in suit — Shippensburg Raiders roster photo" class="spotlight-image" width="600" height="900">
+    <p class="photo-credit">Photo: Shippensburg Athletics</p>
+  </div>
+  <div class="spotlight-copy">
+    <p class="eyebrow">Beyond the field</p>
+    <h2>Student first</h2>
+    <p>Henry is a Shippensburg student-athlete building toward class projects and internship opportunities. See a fuller bio and a resume scaffold he can keep updating.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="/about/">About</a>
+      <a class="btn btn-secondary" href="/resume/">Resume</a>
+    </div>
+  </div>
+</section>

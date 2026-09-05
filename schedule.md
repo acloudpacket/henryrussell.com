@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schedule
+description: Shippensburg football schedule links for Henry Russell. Full athletics hub on /athletics/.
 permalink: /schedule/
 ---
 # Schedule

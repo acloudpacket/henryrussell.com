@@ -1,32 +1,26 @@
 ---
 layout: default
 title: About
+description: About Henry Russell, Shippensburg student-athlete open to internships and class projects.
 permalink: /about/
 ---
 # About Henry Russell
 
-**Position:** Offensive Tackle (OT), Defensive Tackle (DT), Nose Guard (NG), Offensive Line (OL)  
-**Height:** 6'5"  
-**Weight:** 325 lbs  
-**School:** Shippensburg University — Raiders football  
-**Background:** Bethlehem Catholic High School (BECA), Bethlehem, Pa — Class of 2026
+Shippensburg University student-athlete on the Raiders football roster. Open to internships, class projects, and figuring out what comes next after the classroom and the field.
 
-Henry Russell is a Shippensburg student-athlete with an OL/DL background. As an offensive lineman, he uses his frame and quick feet to create running lanes and protect the quarterback. On the defensive line, his first step and strength help collapse pockets and disrupt plays. His versatility in both trenches comes from technical work and physicality developed at Bethlehem Catholic and carried into the Raiders program.
+**School:** Shippensburg University (Raiders football)  
+**Background:** Bethlehem Catholic High School (BECA), Bethlehem, Pa · Class of 2026  
+**On the field:** Offensive tackle / defensive line (OT, DT, NG, OL/DL)
 
-![Henry Russell — Shippensburg Raiders](/assets/images/henry-russell-ship-headshot.jpg)
+Henry plays both trenches: creating lanes and protecting the quarterback on offense, and disrupting plays on defense. That work started at Bethlehem Catholic and continues with the Raiders. Off the field, this site is for class, internships, and portfolio pieces, not a recruit brochure.
+
+![Henry Russell, Shippensburg Raiders](/assets/images/henry-russell-ship-headshot.jpg)
 
 *Photo: Shippensburg Athletics*
 
-## Academics and Measurements
+## Quick facts
 
-|**Category**       | **Value**   |
-|---------------------|-------------|
-| **GPA**            | 3           |
-| **Height**         | 6'5"        |
-| **Weight**         | 325 lbs     |
-| **Wingspan**       | 6'8"        |
-| **Dominant Hand**  | Right       |
-| **Dominant Foot**  | Right       |
-| **Bench**          | 200 lbs     |
-| **Squat**          | 345 lbs     |
-| **Deadlift**       | 515 lbs     |
+- **GPA:** 3.0
+- **Height / weight:** 6'5" / 325 lbs
+
+For schedule, roster, and film, see [Athletics](/athletics/). For the editable resume skeleton, see [Resume](/resume/).

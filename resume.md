@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+description: Henry Russell resume for Shippensburg class work and internships: education, experience, athletics, skills.
 permalink: /resume/
 ---
 
@@ -26,7 +27,7 @@ Print-friendly on-page resume for class, internship, and portfolio use. Replace 
 
 - **Shippensburg Raiders football** — OT / DT / OL / DL
 - **Bethlehem Catholic High School (BECA)** — Class of 2026
-- **Measurements:** 6'5" / 325
+- **Size:** 6'5" / 325
 
 ## Skills
 

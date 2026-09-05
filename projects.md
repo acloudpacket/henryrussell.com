@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+description: Class and portfolio projects from Henry Russell, Shippensburg student-athlete.
 permalink: /projects/
 ---
 

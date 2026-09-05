@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+description: Contact Henry Russell about internships, class projects, or athletics background.
 permalink: /contact/
 ---
 # Contact Henry Russell

@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: Henry Russell | Shippensburg student
+description: Henry Russell, Shippensburg student-athlete. Resume, class projects, and Raiders football background for internships and class work.
 permalink: /
 ---
 
@@ -34,13 +35,13 @@ permalink: /
   </a>
   <a class="card" href="/about/">
     <h2>About</h2>
-    <p>Background as a Shippensburg student-athlete and OL/DL profile facts.</p>
+    <p>Who Henry is as a Shippensburg student-athlete, plus background for class and internships.</p>
     <span class="card-link">About Henry</span>
   </a>
   <a class="card" href="/athletics/">
     <h2>Athletics</h2>
-    <p>Raiders football links, schedule, roster bio, and highlights archive.</p>
-    <span class="card-link">Athletics hub</span>
+    <p>Raiders schedule and roster links, game film, and a short athletics archive for context.</p>
+    <span class="card-link">See athletics</span>
   </a>
 </section>
 

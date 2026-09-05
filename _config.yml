@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Henry Russell | Shippensburg
+title: Henry Russell | Shippensburg student
 email: henryfootball73@outlook.com
-description: Henry Russell — Shippensburg student-athlete open to internships and class projects. View athletics background, highlights archive, and contact info.
+description: Henry Russell is a Shippensburg student-athlete open to internships and class projects. Resume, projects, and athletics background.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://henryrussell.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
@@ -49,7 +49,7 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/images/henry-russell-football.jpg
+      image: /assets/images/henry-russell-ship-headshot.jpg
 
 # Defines the pages to be included in the site's header navigation.
 header_pages:

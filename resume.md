@@ -25,7 +25,7 @@ Print-friendly on-page resume for class, internship, and portfolio use. Replace 
 
 ## Athletics
 
-- **Shippensburg Raiders football** — OT / DT / OL / DL
+- **Shippensburg Raiders football** — freshman, redshirting · OT / DT / OL / DL
 - **Bethlehem Catholic High School (BECA)** — Class of 2026
 - **Size:** 6'5" / 325
 

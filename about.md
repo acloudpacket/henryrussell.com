@@ -6,9 +6,10 @@ permalink: /about/
 ---
 # About Henry Russell
 
-Shippensburg University student-athlete on the Raiders football roster. Open to internships, class projects, and figuring out what comes next after the classroom and the field.
+Shippensburg University freshman currently redshirting with Raiders football. Student-athlete open to internships, class projects, and figuring out what comes next after the classroom and the field.
 
 **School:** Shippensburg University (Raiders football)  
+**Status:** Freshman · redshirting  
 **Background:** Bethlehem Catholic High School (BECA), Bethlehem, Pa · Class of 2026  
 **On the field:** Offensive tackle / defensive line (OT, DT, NG, OL/DL)
 

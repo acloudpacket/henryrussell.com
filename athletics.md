@@ -6,7 +6,7 @@ permalink: /athletics/
 ---
 # Athletics
 
-Part of the same student site as [Resume](/resume/) and [Projects](/projects/). Henry is a Shippensburg Raiders football student-athlete; this page is background and film, not a recruit brochure.
+Part of the same student site as [Resume](/resume/) and [Projects](/projects/). Henry is a Shippensburg freshman currently redshirting with Raiders football. This page is background and film for a student-athlete site, not a recruit brochure.
 
 ![Henry Russell, Shippensburg Raiders](/assets/images/henry-russell-ship-roster.jpg)
 

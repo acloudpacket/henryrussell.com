@@ -8,10 +8,10 @@ permalink: /about/
 **Position:** Offensive Tackle (OT), Defensive Tackle (DT), Nose Guard (NG), Offensive Line (OL)  
 **Height:** 6'5"  
 **Weight:** 325 lbs  
-**School:** Bethlehem Catholic High School (BECA), Bethlehem, Pa  
-**Graduation Year:** 2026
+**School:** Shippensburg University — Raiders football  
+**Background:** Bethlehem Catholic High School (BECA), Bethlehem, Pa — Class of 2026
 
-Henry Russell dominates as an offensive lineman, using his massive frame and quick feet to create wide-open running lanes and protect the quarterback with unrelenting power. On the defensive line, his explosive first step and raw strength allow him to collapse pockets and disrupt plays before they develop. His versatility and physicality make him a standout big man, excelling in both trenches with technical precision and brute force.
+Henry Russell is a Shippensburg student-athlete with an OL/DL background. As an offensive lineman, he uses his frame and quick feet to create running lanes and protect the quarterback. On the defensive line, his first step and strength help collapse pockets and disrupt plays. His versatility in both trenches comes from technical work and physicality developed at Bethlehem Catholic and carried into the Raiders program.
 
 ![Henry Russell](/assets/images/aihenry.jpeg)
 

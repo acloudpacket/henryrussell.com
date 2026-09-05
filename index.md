@@ -9,7 +9,7 @@ permalink: /
     <p class="eyebrow">Shippensburg · Raiders football</p>
     <h1>Henry Russell</h1>
     <p class="subhead">Student. Intern-ready. Class projects.</p>
-    <p class="hero-body">Ship freshman on the Raiders. Built this for class, internships, and football. Recruit brochure? Nah.</p>
+    <p class="hero-body">Ship freshman on the Raiders. Built this for class, internships, and football. Recruit brochure? Bruh, that's chopped.</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="/resume/">View Resume</a>
       <a class="btn btn-secondary" href="/projects/">See Projects</a>

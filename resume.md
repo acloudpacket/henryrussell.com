@@ -7,36 +7,33 @@ permalink: /resume/
 
 # Resume
 
-Print-friendly on-page resume for class, internship, and portfolio use.
+Print-friendly resume for class work and internships.
 
 <p class="resume-actions no-print">
-  <a class="btn btn-primary" href="#">Download PDF — add file under assets/</a>
-  <button type="button" class="btn btn-secondary" onclick="window.print()">Print this page</button>
+  <button type="button" class="btn btn-primary" onclick="window.print()">Print this page</button>
 </p>
 
 ## Education
 
-**Shippensburg University** — [Major — TBD]
+**Shippensburg University** · Freshman  
+GPA: 3.0 · Major: TBD
+
+**Bethlehem Catholic High School (BECA)** · Bethlehem, Pa · Class of 2026
 
 ## Experience
 
-- **[Internship / job — add here]** — [Organization TBD] · [Dates TBD]
-  - [Responsibility or outcome — add here]
+Internship and work experience coming soon.
 
 ## Athletics
 
 - **Shippensburg Raiders football** — freshman, redshirting · OT / DT / OL / DL
 - **Bethlehem Catholic High School (BECA)** — Class of 2026
-- **Size:** 6'5" / 325
+- **Size:** 6'5" / 325 lbs
 
 ## Skills
 
-- [Skill — add]
-- [Skill — add]
-- [Skill — add]
+Skills list coming soon.
 
 ## Coursework
 
-- [Course — add]
-- [Course — add]
-- [Course — add]
+Coursework list coming soon.

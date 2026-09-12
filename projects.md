@@ -7,7 +7,7 @@ permalink: /projects/
 
 # Projects
 
-Class and portfolio work in progress. These cards are placeholders Henry can replace with real titles, course names, summaries, and links.
+Class and portfolio work in progress. Cards below cover titles, courses, summaries, and links as they land.
 
 <div class="project-grid">
 

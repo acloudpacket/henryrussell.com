@@ -24,4 +24,4 @@ Henry plays both trenches: creating lanes and protecting the quarterback on offe
 - **GPA:** 3.0
 - **Height / weight:** 6'5" / 325 lbs
 
-For schedule, roster, and film, see [Athletics](/athletics/). For the editable resume skeleton, see [Resume](/resume/).
+For schedule, roster, and film, see [Athletics](/athletics/). For the full resume page, see [Resume](/resume/).

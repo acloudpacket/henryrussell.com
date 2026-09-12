@@ -7,7 +7,7 @@ permalink: /resume/
 
 # Resume
 
-Print-friendly on-page resume for class, internship, and portfolio use. Replace bracketed placeholders with your details.
+Print-friendly on-page resume for class, internship, and portfolio use.
 
 <p class="resume-actions no-print">
   <a class="btn btn-primary" href="#">Download PDF — add file under assets/</a>

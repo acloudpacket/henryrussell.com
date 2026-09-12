@@ -25,12 +25,12 @@ permalink: /
 <section class="home-cards" aria-label="Site sections">
   <a class="card" href="/resume/">
     <h2>Resume</h2>
-    <p>Education, experience placeholders, athletics facts, skills, coursework. Henry can edit it.</p>
+    <p>Education, experience, athletics, skills, and coursework.</p>
     <span class="card-link">Open resume</span>
   </a>
   <a class="card" href="/projects/">
     <h2>Projects</h2>
-    <p>Class and portfolio project cards with course, summary, and link placeholders.</p>
+    <p>Class and portfolio work with course context, summaries, and links.</p>
     <span class="card-link">Browse projects</span>
   </a>
   <a class="card" href="/about/">

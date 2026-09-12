@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Athletics
-description: Shippensburg Raiders football background for Henry Russell, student-athlete open to internships and class projects.
+description: Shippensburg Raiders football schedule, roster, and game film for Henry Russell.
 permalink: /athletics/
 ---
 # Athletics
 
-Part of the same student site as [Resume](/resume/) and [Projects](/projects/). Henry is a Shippensburg freshman currently redshirting with Raiders football. This page is background and film for a student-athlete site, not a recruit brochure.
+Shippensburg Raiders football: official links, game film, and archived posts.
 
 ![Henry Russell, Shippensburg Raiders](/assets/images/henry-russell-ship-roster.jpg)
 
 *Photo: Shippensburg Athletics*
 
-## Official Ship links
+## Schedule and roster
 
 - [Shippensburg Football Schedule](https://shipraiders.com/sports/football/schedule)
 - [Henry Russell on the Raiders roster](https://shipraiders.com/sports/football/roster/henry-russell/15497)
@@ -21,16 +21,14 @@ Part of the same student site as [Resume](/resume/) and [Projects](/projects/). 
 
 {% include hudl-video.html url="https://www.hudl.com/embed/video/3/19470506/674118702b1d32398302e0b7" %}
 
-## More film and profiles
-
-Text links only (no recruit-style logo chrome):
+## Profiles
 
 - [Hudl profile](https://www.hudl.com/profile/19470506/Henry-Russell)
 - [MaxPreps profile](https://www.maxpreps.com/pa/bethlehem/bethlehem-catholic-hawks/athletes/henry-russell/?careerid=6akpsa601hjh1)
 
-## Archive notes
+## Archive
 
-Older camp and combine posts live on X if you want the history.
+Older camp and combine posts on X:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another camp down. Great camp at University of Buffalo today. Still more to improve. <a href="https://t.co/63CknbPdx7">pic.twitter.com/63CknbPdx7</a></p>&mdash; Henry (@HenryRussell_73) <a href="https://twitter.com/HenryRussell_73/status/1936966507218571520?ref_src=twsrc%5Etfw">June 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

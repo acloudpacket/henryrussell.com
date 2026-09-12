@@ -7,7 +7,7 @@ permalink: /projects/
 
 # Projects
 
-Class and portfolio work in progress. Cards below cover titles, courses, summaries, and links as they land.
+Class and portfolio work. More projects will land here as coursework rolls.
 
 <div class="project-grid">
 
